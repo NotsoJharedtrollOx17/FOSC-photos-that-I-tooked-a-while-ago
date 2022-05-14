@@ -4,6 +4,26 @@ Repo made with the intention to publish to the broader public a collection of im
 ---
 
 ## Photos that are uploaded
+- ### droplets
+![](photos/droplets/droplets.JPG)
+- ### 
+![](photos/droplets/droplets.JPG)
+- ###
+![](photos/droplets/droplets.JPG)
+- ###
+![](photos/droplets/droplets.JPG)
+- ###
+![](photos/droplets/droplets.JPG)
+- ###
+![](photos/droplets/droplets.JPG)
+- ###
+![](photos/droplets/droplets.JPG)
+- ###
+![](photos/droplets/droplets.JPG)
+- ###
+![](photos/droplets/droplets.JPG)
+- ###
+![](photos/droplets/droplets.JPG)
 
 ---
 
